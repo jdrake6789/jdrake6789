@@ -1,5 +1,5 @@
 <p>Thank you for coming to my page!</p>
-<h1>My name is Josh Drake and I'm the owner of JP Drake Web Services, LLC.</h1>
+<h1>My name is Josh Drake and I'm the co-owner of Ibarra Drake Construciton, LLC.</h1>
 <img src(
 <p>My company focuses on high-end, technical optimization that stands above our competitors. Offerings include high-end optimization of websites, technical SEO using statistical analysis, and online marketing and promotion services known to excel the user traffic of any organization.</p>
 <p>I approach web design and development using a stringent project management approach. I use knowledge and skills learned as an Engineering Project Manager for the Army and the Air Force to bring a detail-oriented perspective to every detail of my services.</p>
